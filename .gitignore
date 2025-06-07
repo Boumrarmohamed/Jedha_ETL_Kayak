@@ -1,0 +1,15 @@
+# Clés secrètes et variables d environnement
+.env
+keys.py
+
+# Environnement virtuel
+.venv/
+__pycache__/
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# Données sensibles (optionnel si tu veux garder les CSV)
+# data/
+temp.csv
